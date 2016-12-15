@@ -7,7 +7,7 @@ body {
     width: 900px;
     margin-left: 100px;
     margin-right: auto;
-    background-image: url(images/Giant Parchment.jpg);
+    background-image: url("images/Giant Parchment.jpg");
     background-color: #000000;
 }
 
